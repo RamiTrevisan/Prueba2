@@ -1,0 +1,15 @@
+D:\ProyectoCruz\BackEnd\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ProyectoCruz\BackEnd\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\ProyectoCruz\BackEnd\Domain\bin\Debug\net8.0\Domain.dll
+D:\ProyectoCruz\BackEnd\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.dll
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\ProyectoCruz\BackEnd\Domain\obj\Debug\net8.0\ref\Domain.dll
